@@ -2,6 +2,7 @@
   "name": "w3f-education",
   "private": true,
   "type": "module",
+  "homepage": "https://w3f.github.io/education/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
