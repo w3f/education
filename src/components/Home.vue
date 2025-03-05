@@ -70,13 +70,13 @@ const links: CardContent[] = [
         title: "edX Courses - Introduction to Web3 & Polkadot",
         subtitle: "Free online courses from Web3 Foundation",
         text: "Build the foundational knowledge required to understand the latest developments in the blockchain space and web3.",
-        url: "https://docs.polkadot.com/"
+        url: "https://www.edx.org/school/web3x"
     },
 
     {
         title: "Web3Educhain Tutorials",
         subtitle: "Educating Web3 through Polkadot SDK",
-        text: "Learn how to build your own custom blockchain using the Polkadot SDK through the example and development of EduChain.",
+        text: "Learn how to build your own custom blockchain using the Polkadot SDK through the example and development of Educhain.",
         url: "https://web3educhain.xyz/"
     }
 ];
