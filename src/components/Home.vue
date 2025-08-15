@@ -42,6 +42,12 @@ interface CardContent {
 
 const links: CardContent[] = [
     {
+        title: "Polkadot Wiki",
+        subtitle: "The source of truth for the Polkadot Ecosystem",
+        text: "Since 2019, the Polkadot Wiki has been the source of truth for the Polkadot ecosystem. It has been built for the curious, the enthusiasts, and the developers seeking the truth about Polkadot.",
+        url: "https://wiki.polkadot.com/"
+    },
+    {
         title: "Polkadot Blockchain Academy",
         subtitle: "World-class, In-Person Blockchain Education",
         text: "The Polkadot Blockchain Academy is setting the global standard in blockchain education.",
