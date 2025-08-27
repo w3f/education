@@ -1,4 +1,4 @@
-# Web3 Education
+# Web3 Education website
 
 ## 💿 Install
 
